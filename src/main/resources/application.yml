@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: ${AWS_PLANTAGRAM_ENDPOINT_URL}
+  accessKey: ${AWS_PLANTAGRAM_KEY}
+  secretKey: ${AWS_PLANTAGRAM_SECRET}
+  bucketName: ${AWS_PLANTAGRAM_BUCKET}
